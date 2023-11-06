@@ -2,7 +2,7 @@
 " />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Olá, sou Matheus , um estudante de Engenharia de Software apaixonado por criar soluções tecnológicas inovadoras. Minha jornada no mundo da programação é alimentada pelo desejo de aprender, crescer e contribuir para um futuro digital mais promissor. No meu perfil do GitHub, você encontrará projetos que refletem meu compromisso com a excelência e a busca contínua por conhecimento.💻🚀 #EngenhariaDeSoftware #Programação #Inovação .</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mattheus00&theme=radical&mode=weekly" />
